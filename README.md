@@ -8,15 +8,10 @@ Build and maintain your business' digital process library in a practical, low-co
 * Or perhaps you have Word files in a SharePoint repository, yet how easy is it to track change requests and show auditable change histories for certification or recertification?
 
 **Solution**: 
-* Use Git-Process (free and open source approach) to develop, publish, and revise your business' key processes. 
+* Use Git-Process (free and open source approach) to develop, publish, and revise your business' key processes
 * Use Github for change requests to track all changes over the lifecycle of each process (version history)
+* Use plain text files as the process documentation that can be published easily to a static website
+* Easily merge changes from a change request (aka pull request) and have the process website automatically rebuild
+* Keep the history of changes to show auditors (internal or third party)
 
 
-
-## Your Business Workflows (aka Value Stream)
-
-0. Get from supplier.
-1. This
-2. That
-3. The next thing.
-4. Deliver to customer.
